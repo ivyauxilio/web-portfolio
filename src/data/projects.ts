@@ -225,18 +225,14 @@ export const projects: Project[] = [
   },
   {
     id: "bluebird",
-    title: "Bluebird landing page",
-    summary: "Multi-yield discount app",
+    title: "Bluebird Website",
+    summary: "Website about mining and information list for the investors",
     year: 2016,
     role: "Web Developer",
-    stack: ["React Js", "Laravel", "Mysql"],
+    stack: ["React Js"],
     liveUrl: "",
     category: "landing",
-    screenshots: [
-      "/screenshots/bigdish/bigdish-01.JPG",
-      "/screenshots/bigdish/bigdish-02.JPG",
-      "/screenshots/bigdish/bigdish-03.JPG",
-    ],
+    screenshots: ["/screenshots/bluebird/bluebird.JPG"],
   },
 ];
 
